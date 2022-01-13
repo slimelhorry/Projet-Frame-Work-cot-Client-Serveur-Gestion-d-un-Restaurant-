@@ -4,8 +4,6 @@ NODE JS
 MONGOOSE
 MONGO DB Compass
 POSTMAN
-
-
 Gérer le stock	
 Gérer les menus	
 Gérer les employés	
