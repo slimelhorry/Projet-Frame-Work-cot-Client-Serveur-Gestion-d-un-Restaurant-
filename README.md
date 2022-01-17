@@ -1,6 +1,8 @@
 # Projet-Frame-Work-cot-Client-Serveur-Gestion-d-un-Restaurant-
 Angular V13
 
+tt information sur le : selim.elhorry97@gmail.com
+
 NODE JS
 
 MONGOOSE
